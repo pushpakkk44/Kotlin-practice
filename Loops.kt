@@ -1,0 +1,24 @@
+//FOR LOOP
+/*fun main(){
+    var charRange = 'a'..'z'
+    // to print alphabets
+    for (i in charRange) {
+        print("$i\t")
+    }
+    print("\n")
+    // to print numbers with 5 gap
+    val numRange = 1..100 step 5
+    for (i in numRange) {
+        print("$i\t")
+    }
+}*/
+
+//WHILE LOOP
+/*fun main() {
+    val count = 100
+    var i = 0
+    while(i < count) {
+        i = i + 10
+        print("${i}\t")
+    }
+}*/
